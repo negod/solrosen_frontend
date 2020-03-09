@@ -1,0 +1,1 @@
+# solrosen_frontend
